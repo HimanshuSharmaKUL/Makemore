@@ -1,2 +1,2 @@
 # Makemore
-Karpethy's makemore tutorial
+Karpathy's makemore tutorial
